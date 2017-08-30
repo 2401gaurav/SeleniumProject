@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61936" started-at="2017-08-30T11:23:38Z" finished-at="2017-08-30T11:24:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="61936" started-at="2017-08-30T11:23:38Z" finished-at="2017-08-30T11:24:40Z">
+      <class name="com.mas.TestCases.TC_Demo">
+        <test-method status="PASS" signature="initialize(java.lang.String)[pri:0, instance:com.mas.TestCases.TC_Demo@189dd52]" name="initialize" is-config="true" duration-ms="51640" started-at="2017-08-30T16:53:38Z" finished-at="2017-08-30T16:54:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="NavigateToHomePage()[pri:0, instance:com.mas.TestCases.TC_Demo@189dd52]" name="NavigateToHomePage" duration-ms="10166" started-at="2017-08-30T16:54:30Z" finished-at="2017-08-30T16:54:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToHomePage -->
+      </class> <!-- com.mas.TestCases.TC_Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
